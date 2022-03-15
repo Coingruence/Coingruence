@@ -1,2 +1,2 @@
 # Coingruence - NEAR Protocol
-## Co-Founders: Jared Drake, Tyler Hubbard, Adamu
+## Co-Founders: Jared Drake & Tyler Hubbard
